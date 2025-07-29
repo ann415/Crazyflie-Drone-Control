@@ -20,3 +20,9 @@ The aim of the project was to test the performance of wireless charging under ma
 - Lands automatically and stops all motion
 
 ---
+
+## Author
+
+**Anna Ajeeth**  
+NTU Singapore – Electrical & Electronic Engineering  
+URECA Researcher 2024–2025
